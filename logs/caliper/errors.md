@@ -11,6 +11,9 @@ such as crashes and uncraftable recipes.
 
 Recipe: appliedenergistics2:disassemble Class: public final class appeng.recipes.game.DisassembleRecipe
 Recipe: appliedenergistics2:facade Class: public final class appeng.recipes.game.FacadeRecipe
+Recipe: immersiveengineering:revolver_loop Class: public class blusunrize.immersiveengineering.common.crafting.RecipeRevolver
+Recipe: immersiveengineering:jerrycan Class: public class blusunrize.immersiveengineering.common.crafting.RecipeJerrycan
+Recipe: immersiveengineering:stripcurtain_colour Class: public class blusunrize.immersiveengineering.common.crafting.RecipeRGBColouration
 Recipe: draconicevolution:recipe_dislocator_clone Class: public class com.brandon3055.draconicevolution.lib.RecipeDislocatorClone
 Recipe: mystcraft:internal/linkingbook Class: public class com.xcompwiz.mystcraft.data.RecipeLinkingbook
 Recipe: opencomputers:colorizeboots Class: public class li.cil.oc.common.recipe.ColorizeRecipe
@@ -31,5 +34,6 @@ Mod: Wither Crumbs File: witherCrumbs-1.12.2-0.11.jar
 Many mods have systems for showing descriptions for enchantments. Adding
 translations for these can improve mod compatibility.
 
+Enchant: extrautils2:xu.boomereaperang Translation Key: enchantment.extrautils2.xu.boomereaperang.desc
 Enchant: bibliocraft:bibliocraft.readingench Translation Key: enchantment.bibliocraft.bibliocraft.readingench.desc
 Enchant: matteroverdrive:overclock Translation Key: enchantment.matteroverdrive.overclock.desc

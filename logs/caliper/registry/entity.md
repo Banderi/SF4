@@ -1,7 +1,7 @@
 # entity Registry Analysis
 
 This file contains information about how mods are using the entity registry.
-67108466 out of 67108863 ids available. 99.999% of this registry is still
+67108436 out of 67108863 ids available. 99.999% of this registry is still
 available. This data is anonymous, and is not automatically submitted to any
 online service.
 
@@ -14,8 +14,10 @@ online service.
 | bewitchment          | 20      | <0.001%     |
 | statues              | 20      | <0.001%     |
 | botania              | 19      | <0.001%     |
+| xreliquary           | 19      | <0.001%     |
 | cyclicmagic          | 15      | <0.001%     |
 | astralsorcery        | 14      | <0.001%     |
+| immersiveengineering | 9       | <0.001%     |
 | draconicevolution    | 9       | <0.001%     |
 | projecte             | 9       | <0.001%     |
 | matteroverdrive      | 9       | <0.001%     |
@@ -30,6 +32,7 @@ online service.
 | yoyos                | 3       | <0.001%     |
 | mystcraft            | 3       | <0.001%     |
 | ogdragon             | 3       | <0.001%     |
+| extrautils2          | 2       | <0.001%     |
 | buildinggadgets      | 2       | <0.001%     |
 | slabmachines         | 1       | <0.001%     |
 | industrialforegoing  | 1       | <0.001%     |

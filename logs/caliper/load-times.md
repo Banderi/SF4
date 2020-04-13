@@ -7,10 +7,11 @@ online service.
 
 
 
-Signed Mods: 47 (21.0%)
+Signed Mods: 50 (22.0%)
 
 | Mod                                | Total Time | Pre Init | Init | IMC  | Post Init | Valid Signature | File Name                                          |
 |------------------------------------|------------|----------|------|------|-----------|-----------------|----------------------------------------------------|
+| RFTools                            | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | rftools-1.12-7.56.jar                              |
 | MoreOverlays                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | moreoverlays-1.14-mc1.12.2.jar                     |
 | Cucumber Library                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Cucumber-1.12.2-1.1.3.jar                          |
 | AromaBackup                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | AromaBackup-1.12.2-3.0.0.0.b125.jar                |
@@ -46,6 +47,7 @@ Signed Mods: 47 (21.0%)
 | Minecraft Coder Pack               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
 | Thermal Dynamics                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | ThermalDynamics-1.12.2-2.5.5.21-universal.jar      |
 | Flux Networks                      | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | fluxnetworks-1.12.2-3.0.19-21.jar                  |
+| Nature's Compass                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | NaturesCompass-1.12.2-1.8.5.jar                    |
 | Farming for Blockheads             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FarmingForBlockheads_1.12.2-3.1.26.jar             |
 | Yoyos                              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | yoyos_1.12.2-1.3.3.25.jar                          |
 | Inspirations                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Inspirations-1.12.2-0.2.6.jar                      |
@@ -61,7 +63,6 @@ Signed Mods: 47 (21.0%)
 | MCMultiPart                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | MCMultiPart-2.5.3.jar                              |
 | Culinary Construct                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | culinaryconstruct-1.3.3.jar                        |
 | Thermal Innovation                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | ThermalInnovation-1.12.2-0.3.3.12-universal.jar    |
-| Mod Support                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | VeinMiner-1.12-0.38.2.647+b31535a.jar              |
 | Practical Logistics 2              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | practicallogistics2-1.12.2-3.0.8-11.jar            |
 | Mob Stages                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | MobStages-1.12.2-2.0.13.jar                        |
 | OpenComputers (Core)               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
@@ -86,6 +87,7 @@ Signed Mods: 47 (21.0%)
 | CommonCapabilities                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | CommonCapabilities-1.12.2-2.1.0.jar                |
 | Elevator Mod                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | ElevatorMod-1.12.2-1.4.2.jar                       |
 | Sync                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | Sync-1.12.2-7.1.0.jar                              |
+| Extra Utilities 2                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | extrautils2-1.12-1.9.9.jar                         |
 | ZenStages                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | zenstages-0.4.1-19.jar                             |
 | Applied Energistics 2              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | appliedenergistics2-rv6-stable-7.jar               |
 | Simple Storage Network             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | SimpleStorageNetwork-1.12.2-1.7.8.jar              |
@@ -102,6 +104,7 @@ Signed Mods: 47 (21.0%)
 | Placebo                            | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Placebo-1.12.2-1.6.0.jar                           |
 | Mouse Tweaks                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | MouseTweaks-2.10-mc1.12.2.jar                      |
 | CraftTweaker2                      | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.18.jar                      |
+| Reliquary                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Reliquary-1.12.2-1.3.4.796.jar                     |
 | SonarCore                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | sonarcore-1.12.2-5.0.19-20.jar                     |
 | Waila Stages                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | WailaStages-1.12.2-2.0.24.jar                      |
 | TelePastries                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | TelePastries-0.3.4.jar                             |
@@ -112,6 +115,7 @@ Signed Mods: 47 (21.0%)
 | ModPack Utilities                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | MPUtils-1.12.2-1.5.7.jar                           |
 | Minecraft Forge                    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | forge-1.12.2-14.23.5.2838-universal.jar            |
 | Just Enough Items                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | jei_1.12.2-4.15.0.289.jar                          |
+| Inventory Tweaks                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | InventoryTweaks-1.63.jar                           |
 | Clumps                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Clumps-3.1.2.jar                                   |
 | Chisels & Bits                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | chiselsandbits-14.32.jar                           |
 | KleeSlabs                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | KleeSlabs_1.12.2-5.4.11.jar                        |
@@ -121,7 +125,6 @@ Signed Mods: 47 (21.0%)
 | Baubles                            | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Baubles-1.12-1.5.2.jar                             |
 | Patchouli                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Patchouli-1.0-19.jar                               |
 | MatterOverdrive: Legacy Edition    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | MatterOverdrive-1.12.2-0.7.1.0-universal.jar       |
-| RFToolsPower                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | rftoolspower-1.12-1.1.2.jar                        |
 | Squeezer Patch                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | SqueezerPatch-1.12.2-1.0.0.jar                     |
 | Fancy Block Particles              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FancyBlockParticles-1.12.x-2.4.1.jar               |
 | Draconic Evolution                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Draconic-Evolution-1.12.2-2.3.25.351-universal.jar |
@@ -136,6 +139,7 @@ Signed Mods: 47 (21.0%)
 | OG Dragon+                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | ogdragon-1.12.2-0.1.4.jar                          |
 | Integrated Dynamics                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | IntegratedDynamics-1.12.2-1.0.8.jar                |
 | PortalGun                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | PortalGun-1.12.2-7.1.0.jar                         |
+| NoMoreRecipeConflict               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | NoMoreRecipeConflict-0.13(1.12.2).jar              |
 | Topography                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Topography-1.12.2-1.10.1.jar                       |
 | sky_orchards                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | SkyOrchards-0.0.12.jar                             |
 | HydroGel                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | HydroGel-1.12.2-1.1.0.jar                          |
@@ -147,6 +151,7 @@ Signed Mods: 47 (21.0%)
 | Iron Jetpacks                      | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | IronJetpacks-1.12-2-1.1.0.jar                      |
 | MalisisCore                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | malisiscore-1.12.2-6.5.1.jar                       |
 | The Twilight Forest                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | twilightforest-1.12.2-3.8.689-universal.jar        |
+| CosmeticArmorReworked              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | CosmeticArmorReworked-1.12.2-v4b.jar               |
 | SlimyBoyos                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | SlimyBoyos-1.0.0.jar                               |
 | Apotheosis                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Apotheosis-1.12.2-1.10.5.jar                       |
 | mob_grinding_utils                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | MobGrindingUtils-0.3.13.jar                        |
@@ -191,13 +196,13 @@ Signed Mods: 47 (21.0%)
 | EnderCore                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | EnderCore-1.12.2-0.5.57.jar                        |
 | Forge Multipart CBE                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | ForgeMultipart-1.12.2-2.6.1.81-universal.jar       |
 | Tinkers' Construct                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | TConstruct-1.12.2-2.12.0.157.jar                   |
-| Vein Miner                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | VeinMiner-1.12-0.38.2.647+b31535a.jar              |
 | Tiny Progressions                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | tinyprogressions-1.12.2-3.3.34-Release.jar         |
 | Resource Loader                    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | ResourceLoader-MC1.12.1-1.5.3.jar                  |
 | YNot                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | YNot-0.2.3.jar                                     |
 | ContentTweaker                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | ContentTweaker-1.12.2-4.9.1.jar                    |
 | Thermal Foundation                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | ThermalFoundation-1.12.2-2.6.3.27-universal.jar    |
 | NuclearCraft                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | NuclearCraft-2.17c-1.12.2.jar                      |
+| Environmental Tech                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | environmentaltech-1.12.2-2.0.20.1.jar              |
 | Building Gadgets                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | BuildingGadgets-2.6.8.jar                          |
 | Smooth Font Core                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
 | Mantle                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Mantle-1.12-1.3.3.55.jar                           |
@@ -221,6 +226,7 @@ Signed Mods: 47 (21.0%)
 | Mystical Agradditions              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | MysticalAgradditions-1.12.2-1.3.2.jar              |
 | Ranged Pumps                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | rangedpumps-0.5.jar                                |
 | Mod Tweaker                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | modtweaker-4.0.17.jar                              |
+| Immersive Engineering              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | ImmersiveEngineering-0.12-92.jar                   |
 | DragonMurder                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | DragonMurder-1.12.2-1.0.1.jar                      |
 | Tinkers' Complement                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | TinkersComplement-1.12.2-0.4.2.jar                 |
 | Toast Control                      | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Toast Control-1.12.2-1.8.1.jar                     |

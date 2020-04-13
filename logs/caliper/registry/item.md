@@ -1,7 +1,7 @@
 # item Registry Analysis
 
-This file contains information about how mods are using the item registry. 26098
-out of 32000 ids available. 81.556% of this registry is still available. This
+This file contains information about how mods are using the item registry. 25553
+out of 32000 ids available. 79.853% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
@@ -16,17 +16,21 @@ data is anonymous, and is not automatically submitted to any online service.
 | thaumcraft           | 299     | 0.934%      |
 | thermalfoundation    | 265     | 0.828%      |
 | chisel               | 226     | 0.706%      |
-| twilightforest       | 186     | 0.581%      |
+| twilightforest       | 188     | 0.587%      |
 | cyclicmagic          | 180     | 0.563%      |
 | sky_orchards         | 174     | 0.544%      |
+| environmentaltech    | 173     | 0.541%      |
 | xlfoodmod            | 150     | 0.469%      |
 | tconstruct           | 145     | 0.453%      |
+| rftools              | 140     | 0.438%      |
 | matteroverdrive      | 137     | 0.428%      |
 | rustic               | 125     | 0.391%      |
 | chineseworkshop      | 124     | 0.387%      |
+| extrautils2          | 102     | 0.319%      |
 | tp                   | 94      | 0.294%      |
 | projecte             | 86      | 0.269%      |
 | industrialforegoing  | 81      | 0.253%      |
+| immersiveengineering | 79      | 0.247%      |
 | draconicevolution    | 77      | 0.241%      |
 | mekanism             | 72      | 0.225%      |
 | astralsorcery        | 71      | 0.222%      |
@@ -34,6 +38,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | sonarcore            | 66      | 0.206%      |
 | deepmoblearning      | 66      | 0.206%      |
 | integrateddynamics   | 65      | 0.203%      |
+| xreliquary           | 55      | 0.172%      |
 | malisisdoors         | 49      | 0.153%      |
 | enderutilities       | 46      | 0.144%      |
 | inspirations         | 46      | 0.144%      |
@@ -74,7 +79,6 @@ data is anonymous, and is not automatically submitted to any online service.
 | farmingforblockheads | 9       | 0.028%      |
 | bdsandm              | 8       | 0.025%      |
 | teslacorelib         | 7       | 0.022%      |
-| rftoolspower         | 7       | 0.022%      |
 | ae2stuff             | 6       | 0.019%      |
 | mekanismgenerators   | 6       | 0.019%      |
 | telepastries         | 6       | 0.019%      |
@@ -108,6 +112,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | weirdinggadget       | 1       | 0.003%      |
 | pipemaster           | 1       | 0.003%      |
 | snad                 | 1       | 0.003%      |
+| naturescompass       | 1       | 0.003%      |
 | clickmachine         | 1       | 0.003%      |
 | bonsaitrees          | 1       | 0.003%      |
 | ichunutil            | 1       | 0.003%      |

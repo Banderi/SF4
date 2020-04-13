@@ -1,8 +1,8 @@
 # block Registry Analysis
 
-This file contains information about how mods are using the block registry. 544
-out of 4096 ids available. 13.281% of this registry is still available. This
-data is anonymous, and is not automatically submitted to any online service.
+This file contains information about how mods are using the block registry. 158
+out of 4096 ids available. 3.857% of this registry is still available. This data
+is anonymous, and is not automatically submitted to any online service.
 
 
 | Mod Name             | Entries | Utilization |
@@ -14,19 +14,23 @@ data is anonymous, and is not automatically submitted to any online service.
 | nuclearcraft         | 230     | 5.615%      |
 | chisel               | 222     | 5.420%      |
 | thaumcraft           | 200     | 4.883%      |
+| environmentaltech    | 190     | 4.639%      |
 | mysticalagriculture  | 134     | 3.271%      |
 | chineseworkshop      | 122     | 2.979%      |
 | rustic               | 117     | 2.856%      |
 | sky_orchards         | 116     | 2.832%      |
-| tconstruct           | 111     | 2.710%      |
+| tconstruct           | 110     | 2.686%      |
 | cyclicmagic          | 87      | 2.124%      |
 | twilightforest       | 86      | 2.100%      |
+| rftools              | 78      | 1.904%      |
 | matteroverdrive      | 74      | 1.807%      |
+| extrautils2          | 69      | 1.685%      |
 | industrialforegoing  | 67      | 1.636%      |
 | sonarcore            | 66      | 1.611%      |
 | tp                   | 61      | 1.489%      |
 | integrateddynamics   | 54      | 1.318%      |
 | malisisdoors         | 48      | 1.172%      |
+| immersiveengineering | 46      | 1.123%      |
 | astralsorcery        | 38      | 0.928%      |
 | appliedenergistics2  | 37      | 0.903%      |
 | opencomputers        | 36      | 0.879%      |
@@ -55,6 +59,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | xnet                 | 12      | 0.293%      |
 | mystcraft            | 12      | 0.293%      |
 | tombstone            | 9       | 0.220%      |
+| xreliquary           | 8       | 0.195%      |
 | storagenetwork       | 8       | 0.195%      |
 | farmingforblockheads | 8       | 0.195%      |
 | extracells           | 7       | 0.171%      |
@@ -72,7 +77,6 @@ data is anonymous, and is not automatically submitted to any online service.
 | thermaldynamics      | 5       | 0.122%      |
 | ae2stuff             | 4       | 0.098%      |
 | compactstorage       | 4       | 0.098%      |
-| rftoolspower         | 4       | 0.098%      |
 | mekanismgenerators   | 3       | 0.073%      |
 | headcrumbs           | 3       | 0.073%      |
 | animalcrops          | 3       | 0.073%      |

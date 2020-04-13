@@ -77,6 +77,12 @@ online service.
      - OreExcavation
      - Sky Grid
      - Tiny Progressions
+5 - mcjty
+     - InControl
+     - The Lost Cities
+     - McJtyLib
+     - RFTools
+     - XNet
 5 - knightminer
      - Animal Crops
      - Ceramics
@@ -89,11 +95,6 @@ online service.
      - OpenComputers Xnet Driver
      - Pipe Master 2000
      - SkyBonsais
-4 - mcjty
-     - InControl
-     - The Lost Cities
-     - McJtyLib
-     - XNet
 4 - buuz135
      - FindMe
      - Industrial Foregoing
@@ -156,6 +157,10 @@ online service.
      - Mantle
      - Tinkers' Construct
      - Tinkers Tool Leveling
+3 - valkyrieofnight
+     - Environmental Tech
+     - Simple Generators
+     - Valkyrie Lib
 2 - thiakil
      - Mekanism
      - Mekanism: Generators
@@ -240,9 +245,6 @@ online service.
 2 - chickenbones
      - CodeChicken Lib
      - Translocators
-2 - valkyrieofnight
-     - Simple Generators
-     - Valkyrie Lib
 2 - dizzyd
      - Mekanism
      - Mekanism: Generators
@@ -268,6 +270,8 @@ online service.
      - B.A.S.E
 1 - tamaized
      - The Twilight Forest
+1 - blusunrize
+     - Immersive Engineering
 1 - profmobius
      - Waila
 1 - github contributors
@@ -336,22 +340,32 @@ online service.
      - Bewitchment
 1 - m3gafr3ak
      - Extra Cells 2
+1 - themike
+     - Reliquary
 1 - lord joda
      - OpenComputers
 1 - immortaleeb (aka _eeb_)
      - Cyclops Core
+1 - gotolink
+     - NoMoreRecipeConflict
 1 - payonel
      - OpenComputers
 1 - kashdeya
      - Tiny Progressions
 1 - ewyboy
      - B.A.S.E
+1 - zlainsama
+     - CosmeticArmorReworked
 1 - mrriegel
      - Simple Storage Network
+1 - p3pp3rf1y
+     - Reliquary
 1 - ganymedes01
      - Headcrumbs
 1 - the_weatherpony
      - Fence Overhaul
+1 - chaosthedude
+     - Nature's Compass
 1 - bafomdad
      - Real Filing Cabinet
 1 - drmanganese
@@ -388,6 +402,8 @@ online service.
      - Corail Tombstone
 1 - cityofskytcd
      - ChineseWorkshop
+1 - rwtema
+     - Extra Utilities 2
 1 - mysticdrew
      - JourneyMap
 1 - vexatos
@@ -400,6 +416,8 @@ online service.
      - Elevator Mod
 1 - and our awesome patrons!
      - Bewitchment
+1 - x3n0ph0b3
+     - Reliquary
 1 - therobrit
      - Snad
 1 - digitalfeonix
@@ -414,6 +432,8 @@ online service.
      - Forge Mod Loader
 1 - jozufozu
      - Yoyos
+1 - stimmedcow
+     - NoMoreRecipeConflict
 1 - superckl
      - BnBGamingCore
 1 - captainswag101
@@ -426,5 +446,7 @@ online service.
      - Just Enough Items
 1 - ordinastie
      - MalisisCore
+1 - damien a.w. hazard
+     - Immersive Engineering
 1 - zabi94
      - Bewitchment
