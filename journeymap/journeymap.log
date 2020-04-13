@@ -1,0 +1,251 @@
+[04:16:06] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[04:16:06] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[04:16:06] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.5.5, built with Forge 14.23.5.2768
+Forge: 14.23.5.2838
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.5.5, zoomLevel=1, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Icons, showReticle=true, orientation=My Heading, shape=Circle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=false, reticleOrientation=My Heading, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.5.5, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=1, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Game Time, sizePercent=30, showDayNight=true, info3Label=Location, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Small Dots, showReticle=true, orientation=North, shape=Rectangle, showSelf=true, info4Label=Biome, locationFormat=xzyv, playerDisplay=Small Dots, showGrid=true, reticleOrientation=Compass, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Top Right, info1Label=Blank, fontScale=1}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.5.5, mobDisplay=Small Dots, zoomLevel=1, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Large Icons, showGrid=false, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=false, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=1, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.5.5, createDeathpoints=true, showName=true, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, minDistance=4, boldLabel=false, textureSmall=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.5.5, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, googleMapApiDomain=.com, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.5.5, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.5.5, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.5.5, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
+[04:16:06] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[04:16:06] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[04:16:06] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: fi.dy.masa.worldutils.compat.journeymap.JourneymapClientPlugin
+[04:16:06] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.teamacronymcoders.base.modules.journeymap.JourneyMapPlugin
+[04:16:06] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[04:16:20] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[04:16:21] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 72
+[04:16:22] [JM-VersionCheck-1/INFO] [VersionCheck$1] Newer version online: JourneyMap 5.5.7.jar for Minecraft 1.12.2 on http://minecraft.curseforge.com/projects/journeymap/files/2866097
+[04:20:53] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for bibliocraft
+[04:20:53] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/owl_3.png
+[04:20:53] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/owl_0.png
+[04:20:53] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/owl_2.png
+[04:20:53] [Client thread/WARN] [TextureCache] Image not found: farmingforblockheads:textures/entity_icon/merchant.png
+[04:20:54] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[04:20:54] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 5024MB total, 3005MB free 
+[04:20:54] [Netty Client IO #1/INFO] [JourneymapClient] Teleport Enabled:false
+[04:20:54] [Client thread/INFO] [ChatLog] JourneyMap: Press [M]
+[04:21:19] [JM-task-4/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[04:21:19] [JM-task-4/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[04:21:19] [JM-task-4/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[04:21:57] [Client thread/WARN] [TextureCache] Image not found: thaumcraft:textures/entity_icon/bzombie.png
+[04:23:21] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/black_dog_1.png
+[04:23:21] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/black_dog_3.png
+[04:23:42] [Client thread/WARN] [TextureCache] Image not found: minecraft:textures/entity_icon/steve.png
+[04:23:46] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/ghost_4.png
+[04:23:46] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/ghost_3.png
+[04:27:10] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/villager_alchemist_zombie.png
+[04:27:33] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/black_dog_4.png
+[04:27:33] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/black_dog_0.png
+[04:44:05] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/ghost_2.png
+[04:46:15] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/ghost_1.png
+[05:05:07] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/black_dog_2.png
+[05:05:07] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/villager_zombie_greenwitch.png
+[05:30:52] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/ghost_5.png
+[05:37:18] [JM-task-4/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[06:00:51] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[06:00:51] [Client thread/INFO] [StatTimer] TileDrawStep.updateScaledTexture hit max count, 1000000
+[06:01:05] [Client thread/INFO] [StatTimer] TileDrawStep.draw(high) hit max count, 1000000
+[07:11:15] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/drude_2.png
+[07:11:48] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/owl_1.png
+[07:12:05] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/lizard_1.png
+[07:12:05] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/lizard_2.png
+[07:12:09] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/lizard_0.png
+[07:12:14] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/lizard_3.png
+[07:12:35] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/snake_0.png
+[07:12:39] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/snake_3.png
+[07:25:17] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[07:25:43] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[07:25:43] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 5248MB total, 3196MB free 
+[07:25:43] [Netty Client IO #4/INFO] [JourneymapClient] Teleport Enabled:false
+[07:26:43] [JM-task-8/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[07:26:43] [JM-task-8/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[07:26:43] [JM-task-8/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[07:26:43] [JM-task-8/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[07:30:53] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[07:30:56] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[07:30:56] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM-1. Memory: 5600MB total, 3600MB free 
+[07:30:56] [Netty Client IO #4/INFO] [JourneymapClient] Teleport Enabled:false
+[07:31:03] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM-1
+[07:31:06] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[07:31:06] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 5600MB total, 3621MB free 
+[07:31:06] [Netty Client IO #4/INFO] [JourneymapClient] Teleport Enabled:false
+[07:31:08] [JM-task-10/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[07:31:08] [JM-task-10/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[07:31:08] [JM-task-10/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[07:31:08] [JM-task-10/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[07:31:47] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[07:32:09] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[07:32:09] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 5824MB total, 1603MB free 
+[07:32:09] [Netty Client IO #5/INFO] [JourneymapClient] Teleport Enabled:false
+[07:32:09] [JM-task-11/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[07:32:09] [JM-task-11/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[07:32:09] [JM-task-11/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[07:32:09] [JM-task-11/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[08:01:25] [Client thread/WARN] [TextureCache] Image not found: tconstruct:textures/entity_icon/slime.png
+[08:05:20] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/drude_1.png
+[08:09:43] [Client thread/WARN] [TextureCache] Image not found: industrialforegoing:textures/entity_icon/pink_slime.png
+[08:17:42] [JM-task-11/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[08:19:01] [Finalizer/WARN] [TextureImpl] TextureImpl disposed without deleting texture glID: TextureImpl{glid=1895, description=Scaled TileDrawStep{rc=RegionCoord [-1,-1], type=0|underground|3, high=true, zoom=1, sx1=256, sy1=256}, lastImageUpdate=1586672338412, lastBound=1586672338428}
+[08:19:01] [Finalizer/WARN] [TextureImpl] TextureImpl disposed without deleting texture glID: TextureImpl{glid=1910, description=Scaled TileDrawStep{rc=RegionCoord [0,-1], type=0|underground|3, high=true, zoom=1, sx1=256, sy1=256}, lastImageUpdate=1586672338417, lastBound=1586672338428}
+[08:19:01] [Finalizer/WARN] [TextureImpl] TextureImpl disposed without deleting texture glID: TextureImpl{glid=1909, description=Scaled TileDrawStep{rc=RegionCoord [0,-1], type=0|underground|3, high=true, zoom=1, sx1=0, sy1=256}, lastImageUpdate=1586672338412, lastBound=1586672338428}
+[08:29:23] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[08:35:25] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[08:38:35] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[08:38:35] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 6016MB total, 1673MB free 
+[08:38:35] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[08:38:36] [JM-task-14/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[08:38:36] [JM-task-14/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[08:38:36] [JM-task-14/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[08:38:36] [JM-task-14/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[08:38:36] [JM-task-14/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[09:17:40] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[09:17:41] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[10:15:44] [Client thread/INFO] [StatTimer] TileDrawStep.updateScaledTexture hit max count, 1000000
+[10:15:48] [Client thread/INFO] [StatTimer] TileDrawStep.draw(high) hit max count, 1000000
+[10:26:35] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/drude_4.png
+[11:15:41] [Client thread/WARN] [TextureCache] Image not found: deepmoblearning:textures/entity_icon/glitch.png
+[12:11:35] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/snake_2.png
+[12:11:35] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/snake_4.png
+[12:12:15] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[12:12:16] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[12:12:16] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111. Memory: 6016MB total, 3073MB free 
+[12:12:16] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[12:13:20] [Client thread/WARN] [TextureCache] Image not found: thermalfoundation:textures/entity_icon/basalz.png
+[12:18:53] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111
+[12:18:53] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[12:18:53] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 6016MB total, 3081MB free 
+[12:18:53] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[12:18:54] [JM-task-27/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[12:18:54] [JM-task-27/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[12:18:54] [JM-task-27/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[12:18:54] [JM-task-27/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[12:18:54] [JM-task-27/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[12:20:27] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[12:20:28] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[12:20:28] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111. Memory: 6016MB total, 3096MB free 
+[12:20:28] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[12:32:35] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/raven.png
+[12:53:02] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[12:53:02] [Client thread/INFO] [StatTimer] TileDrawStep.updateScaledTexture hit max count, 1000000
+[12:53:02] [Client thread/INFO] [StatTimer] TileDrawStep.draw(high) hit max count, 1000000
+[13:10:44] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111
+[13:10:45] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[13:10:45] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 6016MB total, 2727MB free 
+[13:10:45] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[13:10:45] [JM-task-31/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[13:10:45] [JM-task-31/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[13:10:45] [JM-task-31/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[13:10:45] [JM-task-31/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[13:10:45] [JM-task-31/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[13:11:54] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[13:11:58] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[13:11:58] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111. Memory: 6016MB total, 3435MB free 
+[13:11:58] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[13:19:54] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111
+[13:19:55] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[13:19:55] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 6016MB total, 3314MB free 
+[13:19:55] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[13:19:55] [JM-task-34/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[13:19:55] [JM-task-34/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[13:19:55] [JM-task-34/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[13:19:55] [JM-task-34/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[13:19:55] [JM-task-34/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[13:22:09] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[13:22:12] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[13:22:12] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111. Memory: 6016MB total, 3608MB free 
+[13:22:12] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[13:36:10] [Client thread/WARN] [TextureCache] Image not found: bewitchment:textures/entity_icon/drude_3.png
+[13:54:19] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[13:54:27] [Client thread/INFO] [StatTimer] TileDrawStep.updateScaledTexture hit max count, 1000000
+[13:54:28] [Client thread/INFO] [StatTimer] TileDrawStep.draw(high) hit max count, 1000000
+[14:52:42] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111
+[14:52:46] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[14:52:46] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 6016MB total, 3435MB free 
+[14:52:46] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[14:52:49] [JM-task-46/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[14:52:49] [JM-task-46/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[14:52:49] [JM-task-46/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[14:52:49] [JM-task-46/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[14:52:49] [JM-task-46/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[14:54:22] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[14:54:23] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[14:54:23] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111. Memory: 6016MB total, 3365MB free 
+[14:54:23] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[15:21:44] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111
+[15:21:45] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[15:21:45] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 6016MB total, 3076MB free 
+[15:21:45] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[15:21:46] [JM-task-53/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[15:21:46] [JM-task-53/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[15:21:46] [JM-task-53/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[15:21:46] [JM-task-53/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[15:21:46] [JM-task-53/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[15:23:37] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[15:23:37] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[15:23:37] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111. Memory: 6016MB total, 3079MB free 
+[15:23:37] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[15:24:20] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111
+[15:24:24] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[15:24:24] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 6016MB total, 3411MB free 
+[15:24:24] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[15:24:25] [JM-task-55/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[15:24:25] [JM-task-55/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[15:24:25] [JM-task-55/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[15:24:25] [JM-task-55/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[15:24:25] [JM-task-55/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[15:34:14] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[15:34:17] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[15:34:17] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111. Memory: 6016MB total, 3342MB free 
+[15:34:17] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[16:07:33] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[16:07:33] [Client thread/INFO] [StatTimer] TileDrawStep.updateScaledTexture hit max count, 1000000
+[16:07:34] [Client thread/INFO] [StatTimer] TileDrawStep.draw(high) hit max count, 1000000
+[17:09:49] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111
+[17:09:50] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[17:09:50] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 6016MB total, 2334MB free 
+[17:09:50] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[17:09:51] [JM-task-71/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[17:09:51] [JM-task-71/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[17:09:51] [JM-task-71/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[17:09:51] [JM-task-71/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[17:09:51] [JM-task-71/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[17:11:55] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[17:11:55] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[17:11:55] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111. Memory: 6016MB total, 2704MB free 
+[17:11:55] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[17:43:15] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[17:43:25] [Client thread/INFO] [StatTimer] TileDrawStep.updateScaledTexture hit max count, 1000000
+[17:43:26] [Client thread/INFO] [StatTimer] TileDrawStep.draw(high) hit max count, 1000000
+[18:10:47] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111
+[18:10:47] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[18:10:47] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 6016MB total, 2455MB free 
+[18:10:47] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[18:10:49] [JM-task-81/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[18:10:49] [JM-task-81/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[18:10:49] [JM-task-81/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[18:10:49] [JM-task-81/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[18:10:49] [JM-task-81/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[18:12:23] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
+[18:12:24] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[18:12:24] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111. Memory: 6016MB total, 2410MB free 
+[18:12:24] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[18:29:45] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM111
+[18:29:49] [Client thread/INFO] [WaypointStore] Loaded 2 waypoints from C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\waypoints
+[18:29:49] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 6016MB total, 2792MB free 
+[18:29:49] [Netty Client IO #8/INFO] [JourneymapClient] Teleport Enabled:false
+[18:29:52] [JM-task-87/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=1]
+[18:29:52] [JM-task-87/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_0[meta=3]
+[18:29:52] [JM-task-87/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=3]
+[18:29:52] [JM-task-87/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[18:29:52] [JM-task-87/WARN] [VanillaBlockSpriteProxy] Unable to get any texture to use as color for thermaldynamics:duct_32[meta=7]
+[18:34:01] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Banderi\AppData\Roaming\.minecraft\ATLauncher\instances\SkyFactory4\journeymap\data\mp\Minecraft~Server\DIM0
